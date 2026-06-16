@@ -24,3 +24,11 @@ input {
   padding: 8px 24px;
   width: 400px;
 }
+
+a{
+  text-decoration: none;
+}
+
+ul{
+  list-style-type: none;
+}
