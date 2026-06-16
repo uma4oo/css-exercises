@@ -9,10 +9,23 @@ body {
   align-items: center;
 }
 
+.items{
+  display: flex;
+}
+
+.items div{
+  width: 200px;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+}
+
 img {
   width: 100px;
   height: 100px;
 }
+
 
 .title {
   font-size: 36px;
