@@ -15,7 +15,7 @@ body {
 }
 
 .items div{
-  width: 200px;
+  width: 200px; /*just use max-width: 200px; instead*/
   display: flex;
   flex-wrap: wrap;
   text-align: center;
