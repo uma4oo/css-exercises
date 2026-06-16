@@ -11,6 +11,7 @@ body {
 
 .items{
   display: flex;
+  gap: 52px;
 }
 
 .items div{
@@ -30,6 +31,7 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  margin-bottom: 32px;
 }
 
 /* do not edit this footer */
